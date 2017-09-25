@@ -1,4 +1,4 @@
-[200~#include <string>
+#include <string>
 #include <fstream>
 #include <iostream>
 
