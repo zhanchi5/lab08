@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/zhanchi5/lab05.svg?branch=master)](https://travis-ci.org/zhanchi5/lab05)
+[![Build Status](https://travis-ci.org/zhanchi5/lab06.svg?branch=master)](https://travis-ci.org/zhanchi5/lab06)
 some additions
 
 #LAB 03
